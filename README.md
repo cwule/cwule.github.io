@@ -3,8 +3,8 @@ On this page I am linking to some of my prior projects in medical imaging and mi
 
 
 ## Medical Mixed Reality
-- Landmark-based mixed-reality perceptual alignment of medical imaging data and accuracy validation in living subjects, ISMAR 2020
-- Evaluation of Different Visualization Techniques for Perception-Based Alignment in Medical AR, ISMAR 2020
+- [Landmark-based mixed-reality perceptual alignment of medical imaging data and accuracy validation in living subjects](https://ieeexplore.ieee.org/document/9284724) ISMAR 2020
+- [Evaluation of Different Visualization Techniques for Perception-Based Alignment in Medical AR](https://ieeexplore.ieee.org/document/9288470) ISMAR 2020
 - [Application of holographic augmented reality for external approaches to the frontal sinus](https://pubmed.ncbi.nlm.nih.gov/32362076/) Int Forum Allergy Rhinol 2020
 - [Comparison of head pose tracking methods for mixed-reality neuronavigation for transcranial magnetic stimulation](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11315/113150L/Comparison-of-head-pose-tracking-methods-for-mixed-reality-neuronavigation/10.1117/12.2547917.short?SSO=1) SPIE Medical Imaging 2020
 - [Mixed-reality guidance for brain stimulation treatment of depression](https://ieeexplore.ieee.org/document/8699167), ISMAR 2018
