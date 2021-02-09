@@ -13,7 +13,7 @@ On this page I am linking to some of my prior projects in medical imaging and mi
 
 
 ## Medical Imaging
-
+- [Comparison of diffusion MRI and CLARITY fiber orientation estimates in both gray and white matter regions of human and primate brain](https://www.sciencedirect.com/science/article/pii/S1053811920311770?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=77499739&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM110556&utm_source=AC_) Neuroimage 2021
 - [Generalized diffusion spectrum magnetic resonance imaging (GDSI) for model-free reconstruction of the ensemble average propagator](https://pubmed.ncbi.nlm.nih.gov/30684636/) Neuroimage 2019
 - [Multimodal image registration and connectivity analysis for integration of connectomic data from microscopy to MRI](https://pubmed.ncbi.nlm.nih.gov/31796741/) Nature Communications 2019
 - [Multimodal characterization of the human nucleus accumbens](https://pubmed.ncbi.nlm.nih.gov/31077843/) Neuroimage 2019
