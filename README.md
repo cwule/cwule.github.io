@@ -26,3 +26,5 @@ On this page I am linking to some of my prior projects in medical imaging and mi
 - [Systematic changes to the apparent diffusion tensor of in vivo rat brain measured with an oscillating-gradient spin-echo sequence](https://pubmed.ncbi.nlm.nih.gov/23274188/) Neuroimage 2013
 - [Quantitative measurement of changes in calcium channel activity in vivo utilizing dynamic manganese-enhanced MRI (dMEMRI)](https://pubmed.ncbi.nlm.nih.gov/22227885/) Neuroimage 2012
 
+## Youtube
+[Youtube playlist showing some of my and my students projects](https://youtube.com/playlist?list=PL-96yJ14OZLtNvuQdccgfA08D9gTcw0U5)
