@@ -14,7 +14,7 @@ On this page I am linking to some of my prior projects in medical imaging and mi
 
 
 ## Medical Imaging
-- Nanostructure-specific X-ray tomography reveals myelin levels, integrity and axon orientations in mouse and human nervous tissue Nature communications 2021
+- [Nanostructure-specific X-ray tomography reveals myelin levels, integrity and axon orientations in mouse and human nervous tissue](https://www.nature.com/articles/s41467-021-22719-7) Nature communications 2021
 - [Comparison of diffusion MRI and CLARITY fiber orientation estimates in both gray and white matter regions of human and primate brain](https://www.sciencedirect.com/science/article/pii/S1053811920311770?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=77499739&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM110556&utm_source=AC_) Neuroimage 2021
 - [Generalized diffusion spectrum magnetic resonance imaging (GDSI) for model-free reconstruction of the ensemble average propagator](https://pubmed.ncbi.nlm.nih.gov/30684636/) Neuroimage 2019
 - [Multimodal image registration and connectivity analysis for integration of connectomic data from microscopy to MRI](https://pubmed.ncbi.nlm.nih.gov/31796741/) Nature Communications 2019
